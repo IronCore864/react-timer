@@ -1,6 +1,7 @@
 {
   "name": "timer",
   "homepage": "https://ironcore864.github.io/react-timer",
+  "main": "index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
