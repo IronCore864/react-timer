@@ -1,0 +1,39 @@
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.timer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer-display {
+  font-size: 15vw;
+  font-family: Menlo;
+  text-align: center;
+}
+
+.timer-btn {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  margin: 1vw;
+  padding: 1vw;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 7vw;
+  width: 20vw;
+}
